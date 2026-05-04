@@ -19,6 +19,13 @@ The system connects a structured database (Baserow) to Claude AI through custom-
 
 ---
 
+##  Project Files
+
+*   **[n8n Workflow JSON](<./Flows 1 & 2.json>)** — The raw orchestration logic for the four interconnected pipelines.
+*   **[Claude Custom Skill (.md)](<./articles-agent(CompanyInfoRedacted).md>)** — Modular instructions and prompt engineering used for consistent content generation and trend analysis.
+
+---
+
 ##  Tech Stack
 
 | Tool | Role |
