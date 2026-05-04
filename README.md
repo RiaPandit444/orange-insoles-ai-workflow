@@ -13,7 +13,7 @@ The system connects a structured database (Baserow) to Claude AI through custom-
 
 ##  Workflow Architecture
 
-![n8n Workflow Overview](assets/AI_workflow.png)
+![AI Competitive Intelligence Workflow Architecture](<./AI workflow.png>)
 
 *Four interconnected pipelines built in n8n: (1) content extraction from ProHQ, (2) topic extraction via Claude (Anthropic), (3) theme extraction and aggregation via Claude, and (4) vector embedding and import using OpenAI Embeddings + Qdrant Vector Store for semantic search and scoring.*
 
